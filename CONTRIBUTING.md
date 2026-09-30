@@ -1,34 +1,85 @@
-# Contribuer à Scaleval
+# Contributing to Scaleval
 
-Merci de votre intérêt pour Scaleval. Ce document explique comment proposer une contribution, et surtout, quels principes ne peuvent pas être modifiés — pour que le protocole reste cohérent avec sa raison d'être, même en s'ouvrant à de nombreux contributeurs.
+Thank you for your interest in Scaleval. This document explains how to propose a contribution, and above all, which principles cannot be modified — so the protocol remains consistent with its purpose, even as it opens to many contributors.
 
-## Comment contribuer
+---
 
-1. Ouvrez une **Issue** pour discuter d'une idée avant de proposer une modification importante.
-2. Pour une modification de documentation (glossaire, articles), proposez une **Pull Request** avec une description claire de ce qui change et pourquoi.
-3. Restez concis et citez, si possible, la section du glossaire ou du document concerné.
+## How to Contribute
 
-## Ce qui peut être proposé librement
+1. Open an **Issue** to discuss an idea before proposing a significant change.
+2. For documentation changes (glossary, protocol), propose a **Pull Request** with a clear description of what changes and why.
+3. Be concise and cite, where possible, the relevant section of the glossary or protocol document.
 
-* Corrections, clarifications, reformulations
-* Traductions dans de nouvelles langues
-* Nouveaux exemples ou cas d'usage
-* Suggestions de nouvelles Potences régionales/thématiques, dans le respect du protocole
-* Outils, visualisations, prototypes techniques
+---
 
-## Principes non négociables
+## What Can Be Freely Proposed
 
-Ces principes sont au cœur du système et ne peuvent pas être modifiés par une contribution, quelle que soit la justification avancée :
+- Corrections, clarifications, reformulations
+- Translations into new languages
+- New examples or use cases
+- Suggestions for new regional or thematic Potences, in compliance with the protocol
+- Tools, visualisations, technical prototypes
+- New physical instrument designs (Potmarks, Appreciation Bills) for specific Potences
+- Scaleval Time regime threshold proposals for existing Appreciaries
 
-1. **Les Potences reçues ne sont jamais dépensables ni transférables** par leur détenteur (Modèle B). Une entité appréciée reçoit une mesure, jamais un solde utilisable.
-2. **Aucune conversion directe entre Potences et monnaie réelle.** Les Potences ne sont ni achetables ni vendables contre de l'argent.
-3. **Le taux d'équivalence entre deux Potences Recognized est 1:1 par défaut**, et ne peut être ajusté que pour des raisons méthodologiques documentées — jamais pour des raisons économiques, démographiques ou de richesse nationale.
-4. **Pas de mécanisme de crédit, de dette ou de rendement financier.** Scaleval n'est pas un système de prêt ni d'investissement à retour garanti.
-5. **L'Influence d'un appréciateur dans le calcul du Taux de Conviction reste plafonnée ou non-linéaire**, pour empêcher qu'un seul détenteur ne domine le consensus.
-6. **Exclusions éthiques strictes** : pas d'appréciation individuelle et cotée de mineurs, de données de santé personnelles, ou de caractéristiques protégées (origine, religion, orientation).
-7. **Transparence des sources.** Toute estimation algorithmique (Croissance projetée, Signal d'Actualité) doit rester distincte et clairement étiquetée par rapport aux données constatées (billets réellement déclarés).
+---
+
+## Non-Negotiable Principles
+
+These principles are at the core of the system and cannot be modified by any contribution, regardless of the justification offered:
+
+**1. Received Potences are never spendable or transferable by their holder (Model B)**
+An appreciated entity receives a measure, never a usable balance. Potences received through appreciation never feed back into an appreciation capacity.
+
+**2. No direct conversion between Potences and real money**
+Potences are neither buyable nor sellable against money. The protocol has no equivalent of debt, dividend, interest, or financial return.
+
+**3. The equivalence rate between two Recognized Potences is 1:1 by default**
+It can only be adjusted for documented methodological reasons — never for economic, demographic, or national wealth reasons.
+
+**4. No credit, debt, or guaranteed financial return mechanism**
+Scaleval is not a lending system or guaranteed-return investment. Potentation Advances carry no financial repayment obligation.
+
+**5. An appreciator's Influence in the Conviction Rate calculation remains capped or non-linear**
+This prevents any single holder from dominating the consensus — an anti-concentration safeguard central to the protocol.
+
+**6. Strict ethical exclusions**
+No individual rated appreciation of minors, personal health data, or protected characteristics (origin, religion, orientation, gender identity). Appreciations involving a direct hierarchical power relation must be labelled as Declared Power Relations, with the appreciated entity retaining a right to refuse publication.
+
+**7. Reliability is never based on writing quality**
+An appreciator's Reliability score depends solely on the accuracy of their past appreciations over time — never on the quality, length, or eloquence of their justification texts.
+
+**8. Scaleval Time applies to real Appreciaries, never to individual entities**
+One Scaleval Timer per Appreciary (country, region, city). Regime changes are decided by the Potice Central based on objective aggregated indicators, never arbitrarily.
+
+**9. The Scaleval Title Sigle always encodes the Potence code**
+Never the country code, ISO code, or Appreciary name. A Potence may cover several countries; the Sigle identifies registry affiliation, not geography.
+
+**10. Physical instruments must bear the double emblem**
+Every official Appreciation Bill and Potmark must carry both the Scaleval Foundation (SF) emblem and the local Potice emblem — dual guarantee of protocol and local validity.
+
+---
+
+## Official Terminology
+
+All contributions to the English version of the protocol must use official terminology:
+
+| Official term | Never use |
+|---|---|
+| Potcap | Portfolio, Wallet, Balance |
+| Scaleval Agent | Mandataire |
+| Potmark | Rating, Score, Note |
+| Appreciation Bill | Billet (in English context) |
+| Appreciary | Appreciary market, Exchange |
+| Scaleval Time | Exeliction, Timeval |
+| Scaleval Timer | Clock, Counter |
+| Declared Power Relation | Authority bias |
+
+---
 
 ## Questions
 
-Pour toute question sur ces principes ou sur la direction du projet, ouvrez une Issue ou contactez mavoungoufred1@gmail.com/(+241) 074 06 00 46.
+For any question about these principles or the direction of the project, open an Issue or contact:
 
+**Fred MEKAME MAVOUNGOU**
+mavoungoufred1@gmail.com · (+241) 074 06 00 46
